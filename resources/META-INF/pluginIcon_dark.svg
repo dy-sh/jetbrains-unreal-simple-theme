@@ -1,9 +1,10 @@
 <svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
  <g id="Layer_1">
   <title>Layer 1</title>
-  <rect id="svg_4" height="854.99998" width="867.00003" y="-14" x="-13" stroke-width="0" stroke="#000" fill="#1d1f21"/>
-  <text transform="matrix(4.87022, 0, 0, 2.57331, -184.652, -57.6842)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_1" y="55.82901" x="140.27901" stroke-width="0" stroke="#000" fill="#9bc7e8">DYSH</text>
-  <text transform="matrix(8.26984, 0, 0, 12.2201, -596.654, -5024.36)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_2" y="447.06868" x="78.85326" stroke-width="0" stroke="#000" fill="#bfe892">UNREAL</text>
-  <text transform="matrix(8.12177, 0, 0, 4.72892, -727.773, -2142.5)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_3" y="573.16716" x="96.42136" stroke-width="0" stroke="#000" fill="#d59673">SIMPLE</text>
+  <rect id="svg_4" height="854.99998" width="867.00003" y="-14" x="-11.50747" stroke-width="0" stroke="#000" fill="#1d1f21"/>
+  <text font-weight="bold" transform="matrix(4.87022, 0, 0, 2.57331, -184.652, -57.6842)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_1" y="85.86857" x="41.52159" stroke-width="0" stroke="#000" fill="#666666">DYSH</text>
+  <text font-weight="bold" transform="matrix(8.88864, 0, 0, 14.6338, -699.149, -6122.29)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_2" y="449.74547" x="79.22057" stroke-width="0" stroke="#000" fill="#9bc7e8">UNREAL</text>
+  <text font-weight="bold" transform="matrix(8.74055, 0, 0, 4.72892, -834.881, -2142.5)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_3" y="579.77543" x="96.89807" stroke-width="0" stroke="#000" fill="#c9c7c9">SIMPLE</text>
+  <text font-weight="bold" transform="matrix(3.82544, 0, 0, 2.76209, -333.486, -1154.38)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_6" y="665.25208" x="216.53176" stroke-width="0" stroke="#000" fill="#666666">THEME</text>
  </g>
 </svg>
