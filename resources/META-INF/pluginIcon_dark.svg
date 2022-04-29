@@ -1,0 +1,9 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect id="svg_4" height="854.99998" width="867.00003" y="-14" x="-13" stroke-width="0" stroke="#000" fill="#1d1f21"/>
+  <text transform="matrix(4.87022, 0, 0, 2.57331, -184.652, -57.6842)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_1" y="55.82901" x="140.27901" stroke-width="0" stroke="#000" fill="#9bc7e8">DYSH</text>
+  <text transform="matrix(8.26984, 0, 0, 12.2201, -596.654, -5024.36)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_2" y="447.06868" x="78.85326" stroke-width="0" stroke="#000" fill="#bfe892">UNREAL</text>
+  <text transform="matrix(8.12177, 0, 0, 4.72892, -727.773, -2142.5)" xml:space="preserve" text-anchor="start" font-family="'JetBrains Mono'" font-size="24" id="svg_3" y="573.16716" x="96.42136" stroke-width="0" stroke="#000" fill="#d59673">SIMPLE</text>
+ </g>
+</svg>
