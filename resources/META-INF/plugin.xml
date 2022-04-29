@@ -9,7 +9,7 @@
 
     <change-notes>
         &lt;h2&gt;0.1.0&lt;/h2&gt;
-        Fist Beta release.
+        First Beta release.
     </change-notes>
 
     <idea-version since-build="191.0"/>
@@ -19,6 +19,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="" path="/META-INF/Dysh_Unreal_Simple.json"/>
+        <themeProvider id="com.dysh.unreal-simple" path="/META-INF/Dysh_Unreal_Simple.theme.json"/>
     </extensions>
 </idea-plugin>
