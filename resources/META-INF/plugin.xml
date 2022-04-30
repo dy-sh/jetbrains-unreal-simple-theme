@@ -1,11 +1,21 @@
 <idea-plugin require-restart="false">
     <id>com.dysh.unreal-simple</id>
     <name>Dysh Unreal Simple Theme</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <vendor email="d.savosh@gmail.com" url="https://github.com/dy-sh/">Dmitry Savosh</vendor>
 
-    <description>Dysh Unreal Simple Theme
-    </description>
+    <description><![CDATA[
+  <img src="https://raw.githubusercontent.com/dy-sh/jetbrains-unreal-simple-theme/main/screenshots/screen.png" border="0" width="700" alt="Screenshot">
+  <br/>
+  How to install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Restart IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+  <a href="https://github.com/dy-sh/jetbrains-unreal-simple-theme/issues">Report an issue</a>  |  <a href="https://github.com/dy-sh/jetbrains-unreal-simple-theme">GitHub repository</a>
+     ]]></description>
 
     <change-notes>
         &lt;h2&gt;0.1.0&lt;/h2&gt;
