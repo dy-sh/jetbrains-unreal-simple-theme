@@ -1,6 +1,12 @@
-Unreal Simple theme for JetBrains IDE (Rider, Clion, WebStorm, PyCharm, etc..).
+Unreal Simple theme for JetBrains IDE (Rider, CLion, WebStorm, PyCharm, etc..).
+
+Default theme:
 
 ![screenshot](./screenshots/screen.png)
+
+Vivid theme:
+
+![screenshot](./screenshots/screen_vivid.png)
 
 How to install:
 
